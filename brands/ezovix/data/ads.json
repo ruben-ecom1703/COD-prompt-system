@@ -1,0 +1,455 @@
+{
+ "brand": "Ezovix",
+ "campagne": "03/07/26 - Ezovix - Testing",
+ "fenetre": "2026-07-04 → 2026-07-12",
+ "verifie_le": "2026-07-13",
+ "source": "data/exports-meta/ (croisement nom d'ad + ad set)",
+ "totaux": {
+  "spend_usd": 281.33,
+  "ventes": 50,
+  "revenue_usd": 3040.11,
+  "roas": 10.81
+ },
+ "pages": {
+  "Labor": {
+   "id": "1155025737700054",
+   "spend_usd": 236.66,
+   "ventes": 43,
+   "revenue_usd": 2597.59,
+   "roas": 10.98,
+   "ads": 10
+  },
+  "Hálózat": {
+   "id": "1212951778564210",
+   "spend_usd": 44.67,
+   "ventes": 7,
+   "revenue_usd": 442.52,
+   "roas": 9.91,
+   "ads": 10
+  }
+ },
+ "meta_ads": [
+  {
+   "ad_name": "Photo IA Réaliste Graduation",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 22.05,
+   "purchases": 5,
+   "roas": 13.69,
+   "revenue": 301.76
+  },
+  {
+   "ad_name": "hf_20260703_095722_3a8ddac8-b9b1-4a78-88f3-86426546fc33",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 10.4,
+   "purchases": 1,
+   "roas": 6.77,
+   "revenue": 70.38
+  },
+  {
+   "ad_name": "Vidé 2",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 2.8,
+   "purchases": 1,
+   "roas": 25.14,
+   "revenue": 70.38
+  },
+  {
+   "ad_name": "AI Images from Text & Photo (9)",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 2.76,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "hf_20260703_101950_573bbb76-dc70-48a4-a234-f0072347501e",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 2.35,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Static - A Rejtett Enzim (advertorial)",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 1.76,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Homme Hongrois Réaliste en Pleurs (1)",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 1.04,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Vidé 1",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 0.78,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Higgsfield AI Images 2026-07-03",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 0.7,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "AI Images from Text & Photo (8)",
+   "adset": "Adset 2 - Természetes Emésztési Egészség Hálózat",
+   "page": "Hálózat",
+   "spend": 0.03,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Static - A Torok Amely Nem Urul Ki (blueprint)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 81.69,
+   "purchases": 18,
+   "roas": 13.36,
+   "revenue": 1091.36
+  },
+  {
+   "ad_name": "Static - GERD vs LPR (v1)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 33.33,
+   "purchases": 9,
+   "roas": 15.24,
+   "revenue": 508.08
+  },
+  {
+   "ad_name": "Static - A Nyakcsapda",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 82.98,
+   "purchases": 8,
+   "roas": 6.18,
+   "revenue": 512.9
+  },
+  {
+   "ad_name": "Vmake AI Vidéo Hongroise (2)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 12.32,
+   "purchases": 4,
+   "roas": 18.78,
+   "revenue": 231.38
+  },
+  {
+   "ad_name": "Static - Kronikus Toroknyak (advertorial)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 9.03,
+   "purchases": 2,
+   "roas": 18.08,
+   "revenue": 163.25
+  },
+  {
+   "ad_name": "Static - Miert Kohogtem 200x (advertorial)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 4.42,
+   "purchases": 1,
+   "roas": 10.25,
+   "revenue": 45.31
+  },
+  {
+   "ad_name": "Vmake AI Vidéo Hongroise (1) (1)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 3.65,
+   "purchases": 1,
+   "roas": 12.41,
+   "revenue": 45.31
+  },
+  {
+   "ad_name": "Static - Az Ev Legnagyobb Akcioja (promo 2plus1)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 5.83,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Vmake AI Vidéo Suppresseur Hongrois (2)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 2.29,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  },
+  {
+   "ad_name": "Static - 11 osszetevo (aloe vera)",
+   "adset": "Adset 1 - Emésztési Egészség Labor",
+   "page": "Labor",
+   "spend": 1.12,
+   "purchases": 0,
+   "roas": 0.0,
+   "revenue": 0.0
+  }
+ ],
+ "copies": [
+  {
+   "num": 1,
+   "fiche": "ads/01-lpr-flagship.md",
+   "titre": "LPR/néma reflux — toux 3 ans (flagship Ágnes K.)",
+   "persona": "Ágnes K., 53",
+   "page": "Labor",
+   "meta_ad_name": "Static - A Nyakcsapda",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 82.98,
+   "ventes": 8,
+   "roas": 6.18
+  },
+  {
+   "num": 2,
+   "fiche": "ads/02-lpr-image-b-gerd-vs-lpr.md",
+   "titre": "Copy #1 + image B (GERD vs LPR)",
+   "persona": "Ágnes K.",
+   "page": "Labor",
+   "meta_ad_name": "Static - GERD vs LPR (v1)",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 33.33,
+   "ventes": 9,
+   "roas": 15.24
+  },
+  {
+   "num": 3,
+   "fiche": "ads/03-static-11-osszetevo.md",
+   "titre": "Static produit 11 összetevő",
+   "persona": "voix produit",
+   "page": "Labor",
+   "meta_ad_name": "Static - 11 osszetevo (aloe vera)",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 1.12,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 4,
+   "fiche": "ads/04-chanteuse-voix-perdue.md",
+   "titre": "La chanteuse qui a perdu sa voix",
+   "persona": "Ildikó V.",
+   "page": "Hálózat",
+   "meta_ad_name": "Static - A Rejtett Enzim (advertorial)",
+   "mapping_confiance": "spend exact (1,76$)",
+   "spend_usd": 1.76,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 5,
+   "fiche": "ads/05-lpr-image-c-blueprint.md",
+   "titre": "Copy #1 + image C (the throat that won't drain)",
+   "persona": "Ágnes K.",
+   "page": "Labor",
+   "meta_ad_name": "Static - A Torok Amely Nem Urul Ki (blueprint)",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 81.69,
+   "ventes": 18,
+   "roas": 13.36
+  },
+  {
+   "num": 6,
+   "fiche": "ads/06-racle-gorge-200x.md",
+   "titre": "200 raclements de gorge/jour",
+   "persona": "voix autorité",
+   "page": "Labor",
+   "meta_ad_name": "Static - Miert Kohogtem 200x (advertorial)",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 4.42,
+   "ventes": 1,
+   "roas": 10.25
+  },
+  {
+   "num": 7,
+   "fiche": "ads/07-static-ego-erzes-akcio.md",
+   "titre": "Static égő érzés / az év akciója",
+   "persona": "voix produit",
+   "page": "Labor",
+   "meta_ad_name": "Static - Az Ev Legnagyobb Akcioja (promo 2plus1)",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 5.83,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 8,
+   "fiche": "ads/08-barrett-precancer.md",
+   "titre": "Reflux ignoré → Barrett / pré-cancer",
+   "persona": "Judit Sz.",
+   "page": "Hálózat",
+   "meta_ad_name": "Photo IA Réaliste Graduation",
+   "mapping_confiance": "spend exact (22,05$)",
+   "spend_usd": 22.05,
+   "ventes": 5,
+   "roas": 13.69
+  },
+  {
+   "num": 9,
+   "fiche": "ads/09-reflux-nocturne-fauteuil.md",
+   "titre": "Reflux nocturne / le fauteuil",
+   "persona": "Gábor T., 54",
+   "page": "Hálózat",
+   "meta_ad_name": "Homme Hongrois Réaliste en Pleurs (1)",
+   "mapping_confiance": "spend exact (1,04$)",
+   "spend_usd": 1.04,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 10,
+   "fiche": "ads/10-globus-boule-gorge.md",
+   "titre": "Globus — la boule dans la gorge",
+   "persona": "Réka B., 45",
+   "page": "Hálózat",
+   "meta_ad_name": "hf_20260703_095722_3a8ddac8-b9b1-4a78-88f3-86426546fc33",
+   "mapping_confiance": "spend exact (10,40$)",
+   "spend_usd": 10.4,
+   "ventes": 1,
+   "roas": 6.77
+  },
+  {
+   "num": 11,
+   "fiche": "ads/11-faux-infarctus.md",
+   "titre": "3 fois j'ai cru faire un infarctus",
+   "persona": "Zoltán F., 50",
+   "page": "Hálózat",
+   "meta_ad_name": "AI Images from Text & Photo (8)",
+   "mapping_confiance": "spend exact (0,03$)",
+   "spend_usd": 0.03,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 12,
+   "fiche": "ads/12-gyomoreges-mass-antiacides.md",
+   "titre": "Gyomorégés mass — savlekötő dans chaque poche",
+   "persona": "Erzsébet H., 54",
+   "page": "Hálózat",
+   "meta_ad_name": "hf_20260703_101950_573bbb76-dc70-48a4-a234-f0072347501e",
+   "mapping_confiance": "spend exact (2,35$)",
+   "spend_usd": 2.35,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 13,
+   "fiche": "ads/13-toux-contagieux.md",
+   "titre": "LPR toux — on me croit contagieux",
+   "persona": "Tamás P., 49",
+   "page": "Hálózat",
+   "meta_ad_name": "AI Images from Text & Photo (9)",
+   "mapping_confiance": "spend exact (2,76$)",
+   "spend_usd": 2.76,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 14,
+   "fiche": "ads/14-prisonnier-ipp.md",
+   "titre": "Marre des IPP — prisonnier d'une pilule",
+   "persona": "László M., 58",
+   "page": "Hálózat",
+   "meta_ad_name": "Higgsfield AI Images 2026-07-03",
+   "mapping_confiance": "spend exact (0,70$)",
+   "spend_usd": 0.7,
+   "ventes": 0,
+   "roas": 0.0
+  },
+  {
+   "num": 15,
+   "fiche": "ads/15-video-stop-burning-a.md",
+   "titre": "Vidéo STOP BURNING créative A",
+   "persona": "voix produit",
+   "page": "Labor",
+   "meta_ad_name": null,
+   "mapping_confiance": "à confirmer par Hugo (famille Vmake Labor)",
+   "spend_usd": null,
+   "ventes": null,
+   "roas": null
+  },
+  {
+   "num": 16,
+   "fiche": "ads/16-video-stop-burning-b.md",
+   "titre": "Vidéo STOP BURNING créative B",
+   "persona": "voix produit",
+   "page": "Labor",
+   "meta_ad_name": null,
+   "mapping_confiance": "à confirmer par Hugo (famille Vmake Labor)",
+   "spend_usd": null,
+   "ventes": null,
+   "roas": null
+  },
+  {
+   "num": 17,
+   "fiche": "ads/17-video-ugc-pipette.md",
+   "titre": "Vidéo UGC pipette",
+   "persona": "UGC",
+   "page": "Hálózat",
+   "meta_ad_name": null,
+   "mapping_confiance": "à confirmer par Hugo (Vidé 1 ou Vidé 2)",
+   "spend_usd": null,
+   "ventes": null,
+   "roas": null
+  },
+  {
+   "num": 18,
+   "fiche": "ads/18-video-objection-killer.md",
+   "titre": "Vidéo objection-killer prix/COD",
+   "persona": "voix marque",
+   "page": "Labor",
+   "meta_ad_name": null,
+   "mapping_confiance": "à confirmer par Hugo (famille Vmake Labor)",
+   "spend_usd": null,
+   "ventes": null,
+   "roas": null
+  },
+  {
+   "num": 19,
+   "fiche": "ads/19-video-ugc-verre-eau.md",
+   "titre": "Vidéo UGC verre d'eau",
+   "persona": "UGC",
+   "page": "Hálózat",
+   "meta_ad_name": null,
+   "mapping_confiance": "à confirmer par Hugo (Vidé 1 ou Vidé 2)",
+   "spend_usd": null,
+   "ventes": null,
+   "roas": null
+  },
+  {
+   "num": 20,
+   "fiche": "ads/20-advertorial-image-c-kronikus.md",
+   "titre": "Copy #1 + image chronic throat mucus",
+   "persona": "Ágnes K.",
+   "page": "Labor",
+   "meta_ad_name": "Static - Kronikus Toroknyak (advertorial)",
+   "mapping_confiance": "titre du visuel",
+   "spend_usd": 9.03,
+   "ventes": 2,
+   "roas": 18.08
+  }
+ ]
+}
